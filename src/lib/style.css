@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+body {
+    background-color: #DCDCDC
+}
+
+p {
+    color : rgb(0, 0, 0);
+    font-family: "Roboto Condensed", serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: black;
+    font-family: "Roboto Condensed", serif;
+    font-size: 37px;
+    font-weight: bold;
+}
+
+h2 {
+    color: orangered;
+    font-family: "Roboto Condensed", serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+h3 {
+    color: orangered;
+    font-family: "Roboto Condensed", serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+li{
+    font-family: "Roboto Condensed", serif;
+    font-size: 15px;
+}
